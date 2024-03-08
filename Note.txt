@@ -1,0 +1,10 @@
+Here is a simple calculator code created using Go-Lang. This calculator has several features including:
+
+1. Calculation of flat shapes
+2. Angle calculations
+3. Calculation of Uniformly Accelerated Linear Motion (GLB) and Uniformly Accelerated Rotational Motion (GLBB)
+4. Calculation of potential and kinetic energy
+5. Calculation of frequency and vibration
+6. Calculation of density
+7. Calculation of power, pressure, work, and force
+8. Conversion of temperature units.
